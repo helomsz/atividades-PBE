@@ -1,0 +1,5 @@
+# EXERCÍCIO 1
+contador = 0
+for numeros in range (1,11):
+    contador +=1
+    print(contador)
